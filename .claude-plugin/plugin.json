@@ -1,0 +1,21 @@
+{
+  "name": "multi-agent-systems",
+  "version": "1.0.0",
+  "description": "Parallel agent execution with Swarms and Get Shit Done (GSD). 28 commands, 2 skills. Dependency-aware planning, parallel waves, and atomic commits for complex multi-step projects.",
+  "author": {
+    "name": "Alec Gutman"
+  },
+  "homepage": "https://github.com/Chipagosfinest/claude-multi-agent-systems",
+  "repository": "https://github.com/Chipagosfinest/claude-multi-agent-systems",
+  "license": "MIT",
+  "keywords": [
+    "swarms",
+    "gsd",
+    "orchestration",
+    "parallel",
+    "agents",
+    "planning",
+    "multi-agent",
+    "workflow-automation"
+  ]
+}
