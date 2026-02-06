@@ -1,0 +1,15 @@
+{
+  "name": "multi-agent-systems",
+  "description": "Multi-Agent Systems - Swarms and GSD for parallel agent execution",
+  "owner": {
+    "name": "Alec Gutman"
+  },
+  "plugins": [
+    {
+      "name": "multi-agent-systems",
+      "source": "./multi-agent-systems",
+      "description": "Parallel agent execution with Swarms and Get Shit Done (GSD). 28 commands, 2 skills. Dependency-aware planning, parallel waves, and atomic commits for complex multi-step projects.",
+      "version": "1.0.0"
+    }
+  ]
+}
